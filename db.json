@@ -1,5 +1,22 @@
 {
-  "users": [],
+  "users": [
+    {
+      "name": "Mrs. Brandon Blanda",
+      "id": 1
+    },
+    {
+      "name": "Isabel Abbott",
+      "id": 2
+    },
+    {
+      "name": "Dr. Sue Collier",
+      "id": 3
+    },
+    {
+      "name": "Mr. Lynda Beahan",
+      "id": 4
+    }
+  ],
   "albums": [],
   "photos": []
 }
